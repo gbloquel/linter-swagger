@@ -28,7 +28,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "atom-package-deps": "^4.0.1",
+    "atom-package-deps": "^4.6.2",
     "swagger-parser": "4.0.2",
     "lodash": "^4.16.4",
     "yaml-js": "^0.3.0"
